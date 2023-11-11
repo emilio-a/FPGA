@@ -1,4 +1,5 @@
-#Display Driver
+# Display Driver
+
 Un driver multiplexdado para display, escrito en Verilog.
 Version 0.2.
 Puede configurarse la frecuencia de actualizacion, la cantidad de digitos, y el la decodificacion.
